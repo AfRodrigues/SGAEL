@@ -1,0 +1,37 @@
+[33mcommit 06c6760d14d377b686f4c1f8ecc98339842a9d92[m
+Author: Afonso Rodrigues <afonso.monteiro53@gmail.com>
+Date:   Mon Jul 11 11:37:19 2016 -0300
+
+    correção devise user
+
+[33mcommit 9201b79f0935fb74dd25312ea8b30b17b28bb724[m
+Author: Afonso Rodrigues <afonso.monteiro53@gmail.com>
+Date:   Mon Jul 11 11:10:22 2016 -0300
+
+    Revert "Bootstrap corrigido"
+    
+    This reverts commit 5ccfedbbee33bd173b78b4bfddb6d8c5920621bf.
+
+[33mcommit 5ccfedbbee33bd173b78b4bfddb6d8c5920621bf[m
+Author: Afonso Rodrigues <afonso.monteiro53@gmail.com>
+Date:   Mon Jul 11 11:03:49 2016 -0300
+
+    Bootstrap corrigido
+
+[33mcommit a22332a14a1d00fdca7bdb97fe83f6cd6877b9a5[m
+Author: Afonso Rodrigues <afonso.monteiro53@gmail.com>
+Date:   Mon Jul 11 10:53:21 2016 -0300
+
+    bootstrap and devise
+
+[33mcommit 2b2d43e00bbb8d3c7ff75545dc90966f5c68c71f[m
+Author: Afonso Rodrigues <afonso.monteiro53@gmail.com>
+Date:   Fri Jul 8 08:53:49 2016 -0300
+
+    first commit
+
+[33mcommit 022581fab838185eaadfc22331ea58b095e950e2[m
+Author: Afonso Rodrigues <afonso.monteiro53@gmail.com>
+Date:   Fri Jul 8 08:49:35 2016 -0300
+
+    first commit
