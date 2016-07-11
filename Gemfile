@@ -8,7 +8,8 @@ gem 'mysql2', '>= 0.3.18', '< 0.5'
 #Bootstrap
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
-
+#DEVISE
+gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
