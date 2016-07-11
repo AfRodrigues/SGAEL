@@ -1,0 +1,17 @@
+Pessoa:
+	nome
+	data_nasc
+	cpf
+	endereco
+		rua
+		numero
+		bairro
+		cidade
+		minas gerais
+
+Tipo_Pessoa:
+	descricao
+
+Usuario
+	email
+	senha
